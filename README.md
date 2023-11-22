@@ -16,7 +16,7 @@
 
 #### Disfrutando de una transición laboral al Data Analytics
 #### Sobre mi 👩‍💻
-- 📊 Soy administrador de negocios y especialista en analitica de datos.
+- 📊 Administrador de negocios y especialista en analítica de datos.
 - 🖼️ Transformando datos en relatos visuales.
 - 💻 Conocimientos en Excel, SQL y visualización de datos (power bi / tableau).
 - 🎓 Eterno estudiante.
@@ -30,5 +30,6 @@
 ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/felipe.henao2597/vizzes)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
