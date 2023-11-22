@@ -14,12 +14,14 @@
  <div id="header" align="left">
 
 
-### Disfrutando de una transición laboral al Data Analytics
+#### Disfrutando de una transición laboral al Data Analytics
 #### Sobre mi 👩‍💻
-
-- 📈 Transformando datos en relatos visuales.
+- 📊 Soy administrador de negocios y especialista en analitica de datos.
+- 🖼️ Transformando datos en relatos visuales.
 - 💻 Conocimientos en Excel, SQL y visualización de datos (power bi / tableau).
-- 🌟 Eterno estudiante.
+- 🎓 Eterno estudiante.
 
-¡Encuéntrame en [LinkedIn](https://www.linkedin.com/in/felipe-henao-albornoz) para colaborar en proyectos innovadores!
+¡Encuéntrame en [![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-henao-albornoz) para colaborar en proyectos innovadores!
+
+
 
