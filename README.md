@@ -7,4 +7,4 @@
 - 💻 Conocimientos en Excel, SQL y visualización de datos (power bi / tableau).
 - 🌟 Eterno estudiante, siempre explorando nuevas formas de comunicar a través de los datos.
 
-¡Encuéntrame en [LinkedIn](www.linkedin.com/in/felipe-henao-albornoz) para colaborar en proyectos innovadores!
+¡Encuéntrame en [LinkedIn](https://www.linkedin.com/in/felipe-henao-albornoz) para colaborar en proyectos innovadores!
