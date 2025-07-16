@@ -14,7 +14,7 @@
  <div id="header" align="left">
 
 
-#### Disfrutando de una transición laboral al Data Analytics
+#### Construyendo soluciones de Machine Learning e IA con Python para desafíos bancarios.
 #### Sobre mi 👩‍💻
 - 📊 Administrador de negocios y especialista en analítica de datos.
 - 🖼️ Transformando datos en relatos visuales.
